@@ -1,7 +1,3 @@
-Parece que este proyecto es una animación de cumpleaños. Para mejorar el **README**, podemos estructurarlo de esta forma en inglés:  
-
----
-
 # 🎂 Happy Birthday Animation 🎉  
 
 This is a **simple and interactive birthday animation** to celebrate special moments in a fun way.  
